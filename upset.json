@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/rgraus/test2/matrixForUpset.csv",
+	"file": "https://raw.githubusercontent.com/rgraus/test2/master/matrixForUpset.csv",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "Peaks" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 71 }
+		{ "format": "binary", "start": 1, "end": 70 }
 	]
 }
