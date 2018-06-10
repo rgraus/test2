@@ -1,0 +1,31 @@
+{
+	"file": "https://raw.githubusercontent.com/rgraus/test2/master/matrixForUpsetAnno.csv",
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Peaks" },
+		{ "type": "string", "index": 0, "name": "chr" },
+		{ "type": "string", "index": 0, "name": "start" },
+		{ "type": "string", "index": 0, "name": "end" },
+		{ "type": "string", "index": 0, "name": "strand" },
+		{ "type": "float", "index": 0, "name": "pileSumm" },
+		{ "type": "float", "index": 0, "name": "pVal" },
+		{ "type": "float", "index": 0, "name": "FDR" },
+		{ "type": "float", "index": 0, "name": "foldEnr" },
+		{ "type": "string", "index": 0, "name": "anno" },
+		{ "type": "string", "index": 0, "name": "detAnno" },
+		{ "type": "float", "index": 0, "name": "distToNearGen" },
+		{ "type": "string", "index": 0, "name": "genSymb" },
+		{ "type": "string", "index": 0, "name": "ensemble" },
+		{ "type": "string", "index": 0, "name": "motif" },
+		{ "type": "float", "index": 0, "name": "medTpmStat5wt" },
+		{ "type": "float", "index": 0, "name": "medTpmStat5kd" },
+		{ "type": "float", "index": 0, "name": "pValStat5kdVsWt" },
+		{ "type": "float", "index": 0, "name": "padjStat5kdVsWt" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 70 }
+	]
+}
