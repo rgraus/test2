@@ -1,7 +1,7 @@
 peak;bed1;bed2
-bed1_peak_1;1;0
-bed2_peak_1;1;0
-bed1_peak_2;1;0
-bed2_peak_2;1;0
-bed1_peak_3;1;0
+bed1_peak_1;1;1
+bed2_peak_1;1;1
+bed1_peak_2;1;1
+bed2_peak_2;1;1
+bed1_peak_3;1;1
 bed2_peak_3;0;1
